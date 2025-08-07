@@ -1,3 +1,3 @@
 # project_learning
 This is my first repository
-author - dweep chaudhary
+author - dweep singh
